@@ -4,6 +4,7 @@
 //const mysql = require('mysql');
 //const cfg = require('./netConfig');
 //const connection = mysql.createConnection(cfg.usrDB);
+"use strict";
 const db = require('./../db/db');
 const usrDB = require('./../cfg/netConfig').usrDB;
 const AccountMgr = {

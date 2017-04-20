@@ -1,6 +1,7 @@
 /**
  * Created by ximena on 2017/4/20.
  */
+"use strict";
 
 const express = require('express');
 const queryStr = require('querystring');

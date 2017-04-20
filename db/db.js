@@ -2,6 +2,8 @@
  * Created by ximena on 2017/4/19.
  */
 
+"use strict";
+
 const mysql = require("mysql");
 //const crypto = require('crypto');
 const format = require('string-format');

@@ -1,6 +1,7 @@
 /**
  * Created ximena on 2017/4/19.
  */
+"use strict";
 
 const serverGate =  {
     host: "127.0.0.1",

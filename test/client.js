@@ -1,3 +1,4 @@
+"use strict";
 const http = require('http');
 const querystring = require('querystring');
 const cfg = require('./../cfg/netConfig');

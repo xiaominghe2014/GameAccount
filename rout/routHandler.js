@@ -1,6 +1,9 @@
 /**
  * Created by ximena on 2017/4/19.
  */
+
+"use strict";
+
 const  AccountMgr = require('./../account/AccountMgr');
 const  cfg = require('./../cfg/netConfig');
 const routHandler = {
