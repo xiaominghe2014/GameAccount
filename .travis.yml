@@ -1,6 +1,10 @@
-language: nodejs
+language: node_js
 nodejs:
   - '6'
+install:
+  - 'nvm install node'
+  - 'npm install npm'
+  - 'npm install -g grunt-cli'
+  - 'npm install'
 scripts:
-  - npm install
   - node app.js
